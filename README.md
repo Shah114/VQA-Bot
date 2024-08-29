@@ -12,4 +12,28 @@ This repository contains a Visual Question Answering (VQA) ChatBot that leverage
 * Requirements: A requirements.txt file is provided to easily install all necessary Python libraries. <br/>
 <br/>
 
+## Installation
+1. Clone the Repository
+   ```bash
+   git clone https://github.com/Shah114/vqa-chatbot.git
+   cd vqa-chatbot
+   ```
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Setup Configuration <br/>
+   Create a config.py file in the root directory and add your Gemini API key and Telegram bot token.
+   ```python
+   # config.py
+   GEMINI_API_KEY = 'your_gemini_api_key'
+   TELEGRAM_BOT_TOKEN = 'your_telegram_bot_token'
+   ```
+4. Run the Bot
+   ```bash
+   python main.py
+   ```
+<br/>
+
 ##
+
