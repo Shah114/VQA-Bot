@@ -1,0 +1,4 @@
+telegram
+config
+google.generativeai
+easygoogletranslate
