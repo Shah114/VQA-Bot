@@ -36,4 +36,5 @@ This repository contains a Visual Question Answering (VQA) ChatBot that leverage
 <br/>
 
 ## Usage
-
+* Interacting with the Bot: After running the bot, you can interact with it through your Telegram app by sending images and asking related questions.
+* Translation: The bot can translate questions and answers between English and Azerbaijani, enhancing communication for users who prefer either language.
