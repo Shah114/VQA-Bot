@@ -26,8 +26,8 @@ This repository contains a Visual Question Answering (VQA) ChatBot that leverage
    Create a config.py file in the root directory and add your Gemini API key and Telegram bot token.
    ```python
    # config.py
-   GEMINI_API_KEY = 'your_gemini_api_key'
-   TELEGRAM_BOT_TOKEN = 'your_telegram_bot_token'
+   api_key = 'your_gemini_api_key'
+   bot_token = 'your_telegram_bot_token'
    ```
 4. Run the Bot
    ```bash
@@ -35,5 +35,5 @@ This repository contains a Visual Question Answering (VQA) ChatBot that leverage
    ```
 <br/>
 
-##
+## Usage
 
