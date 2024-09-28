@@ -45,4 +45,4 @@ This repository contains a Visual Question Answering (VQA) ChatBot that leverage
 <br/>
 
 ## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request. <br/>
+Contributions are welcome! Feel free to open an issue or submit a pull request.
